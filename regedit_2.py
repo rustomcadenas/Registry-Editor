@@ -34,7 +34,7 @@ class Login(Toplevel):
          
 
     def login(self, logUsername, logPassword):
-    	if logUsername == "admin" and logPassword == "adm1nservnew":
+    	if logUsername == "admin" and logPassword == "h3ll0w0rld":
     		self.withdraw()
     		self.root.deiconify() 
 
